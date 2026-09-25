@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Monsoon Lily">
+  <rect width="64" height="64" rx="17" fill="#294737"/>
+  <g fill="#f5f3eb">
+    <path d="M32 45C21 37 20 24 32 13c12 11 11 24 0 32Z"/>
+    <path d="M30 45C17 42 11 33 14 25c10 1 17 9 16 20Z"/>
+    <path d="M34 45c13-3 19-12 16-20-10 1-17 9-16 20Z"/>
+    <path d="M29 46c-12 1-20-5-20-12 9-3 18 2 20 12Z" opacity=".8"/>
+    <path d="M35 46c12 1 20-5 20-12-9-3-18 2-20 12Z" opacity=".8"/>
+  </g>
+  <circle cx="32" cy="39" r="3.2" fill="#c5aa70"/>
+  <path d="M20 49c8 3 16 3 24 0" fill="none" stroke="#c5aa70" stroke-linecap="round" stroke-width="1.7"/>
+</svg>
